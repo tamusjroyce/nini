@@ -1,4 +1,4 @@
-By forking this, my desire is to add YAML and JSON support.
+UNDER CONSTRUCTION: By forking this, my desire is to add YAML and JSON support.
 
 # Nini - An uncommonly powerful .NET configuration library
 

@@ -1,3 +1,5 @@
+By forking this, my desire is to add YAML and JSON support.
+
 # Nini - An uncommonly powerful .NET configuration library
 
 Homepage: http://nini.sourceforge.net/
